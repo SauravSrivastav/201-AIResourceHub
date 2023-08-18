@@ -37,6 +37,7 @@ Llama 2 can be accessed and utilized through various platforms, each providing u
 - [Perplexity.ai](https://labs.perplexity.ai/)
 - [Hugging Face Chat](https://huggingface.co/chat)
 - [Replit Example](https://llama2.skirano.repl.co/)
+- [Hugging Face Space](https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI)
 
 These platforms empower both seasoned AI developers and curious enthusiasts to make the most of Llama 2's capabilities.
 
